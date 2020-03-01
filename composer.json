@@ -1,0 +1,15 @@
+ {
+    "name": "ditafazri/cuaca-widget",
+    "description" : "Modul sampel penggunaan composer",
+    "type" : "project",
+    "authors":{ ]
+        {
+            "name": "ditafazri",
+            "email": "ochasfaz@gmail.com"
+        }
+    ],
+    "require": {
+        "tcdent/php-restclient": "^0.1.7",
+        "nesbot/carbon": "^2.30"
+    }
+}
